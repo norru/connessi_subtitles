@@ -1,1653 +1,1659 @@
 ﻿1
+00:00:25,458 --> 00:00:26,958
+<i>(Concept by)</i>
+
+2
+00:00:30,285 --> 00:00:31,785
+<i>(Screenplay)</i>
+
+3
+00:00:34,394 --> 00:00:35,894
+<i>(Directed by)</i>
+
+4
 00:01:14,914 --> 00:01:16,256
 Mom!
 
-2
+5
 00:01:17,087 --> 00:01:17,857
 Yes
 
-3
+6
 00:01:18,189 --> 00:01:21,293
 I've just arrived safe and sound
 you can stop worrying
 
-4
+7
 00:01:21,384 --> 00:01:22,884
 Nope!
 
-5
+8
 00:01:22,810 --> 00:01:25,370
 the ship didn't sink this time either
 
-6
+9
 00:01:25,470 --> 00:01:28,280
-...do you think you're talking to my own ghost?
+...do you think you're talking to my ghost?
 
-7
+10
 00:01:28,380 --> 00:01:31,270
 No! I'm not coming home mom, told you!
 
-8
+11
 00:01:31,085 --> 00:01:32,585
 Yes, yes
 
-9
-00:01:33,370 --> 00:01:35,010
+12
+00:01:33,370 --> 00:01:36,856
 I'm wondering how I'm going to survive, too
-
-10
-00:01:35,010 --> 00:01:36,856
 with those two airheads as roommates
 
-11
+13
 00:01:37,273 --> 00:01:38,773
 but you gotta give up
 
-12
+14
 00:01:39,866 --> 00:01:41,366
 Yes, yes, Debora is coming
 
-13
+15
 00:01:42,590 --> 00:01:44,880
 ...about which..
 
-14
+16
 00:01:44,880 --> 00:01:47,280
 yep, speak of the devil...
 
-15
-00:01:47,280 --> 00:01:49,290
-No, look, Gaia, at best
-
-16
-00:01:49,290 --> 00:01:53,080
-would have come over on a bike, you know
-
 17
-00:01:53,080 --> 00:01:56,850
-C'mon! Gotta hang up. I promise I'll call you back once I'm at the flat.
+00:01:47,280 --> 00:01:53,080
+No, look, Gaia, at best
+would have come on a bike, you know
 
 18
+00:01:53,080 --> 00:01:56,850
+C'mon! Gotta hang up. I promise I'll call you back once I'm at the flat
+
+19
 00:01:56,998 --> 00:01:58,598
 All good? Ok?
 
-19
+20
 00:01:58,750 --> 00:02:00,600
 C'mon, yep, you're gonna tell me all about auntie, later!
 
-20
+21
 00:02:00,800 --> 00:02:02,300
 All good, come on! Ok!
 
-21
+22
 00:02:02,378 --> 00:02:06,278
 Gotta hang  up, come on, bye kiss, byebyebye! Hanging up now? Bye!
 
-22
+23
 00:02:16,189 --> 00:02:18,409
 Matey!
 
-23
+24
 00:02:19,384 --> 00:02:20,684
 MATEY!
 
-24
+25
 00:02:20,715 --> 00:02:22,215
 Hold on!
 
-25
-00:02:27,841 --> 00:02:30,441
-(deb_mele At the seaport to pick up my bestie e #bff #besties #love #friends #smile #fun #aardvark)
-
 26
+00:02:27,841 --> 00:02:30,441
+(deb_mele At the seaport to pick up my bestie and #bff #besties #love #friends #smile #fun #aardvark)
+
+27
 00:02:31,409 --> 00:02:33,420
 Dearie! How have I missed you!
 
-27
+28
 00:02:33,473 --> 00:02:34,273
 Hm... Me too!
 
-28
+29
 00:02:34,320 --> 00:02:36,989
 What are you doing out there?
 C'mon, get in!
 
-29
+30
 00:02:36,989 --> 00:02:40,929
 Ehm, no, really...  I should put my suitcase in the boot first
 
-30
+31
 00:02:40,929 --> 00:02:45,149
 Ehmm... I believe they can't all fit in.
 Let's do this: you hold the shoe case on your lap.
 
-31
+32
 00:02:45,509 --> 00:02:47,169
 No, I didn't make myself clear
 
-32
+33
 00:02:47,555 --> 00:02:49,055
 SUIT-CASE
 
-33
+34
 00:02:49,169 --> 00:02:52,529
 Noun. One. Singular.
 
-34
+35
 00:02:54,529 --> 00:02:58,539
 Yes, only one, eh! An adventurer as usual!
 Then it's going to fit, for sure.
 
-35
+36
 00:03:15,539 --> 00:03:16,974
 How was the trip, Bestie?
 
-36
+37
 00:03:17,774 --> 00:03:18,709
 Look, the usual
 
-37
+38
 00:03:18,809 --> 00:03:20,559
 You have such dark circles..
 
-38
+39
 00:03:20,833 --> 00:03:21,833
 An hour late
 
-39
+40
 00:03:22,159 --> 00:03:25,199
 The air conditioner in the cabin was out of order
 
-40
+41
 00:03:25,099 --> 00:03:28,599
 and the inevitable sea sickness during the whole trip
 
-41
+42
 00:03:28,460 --> 00:03:33,160
 But... is it even possible that you haven't seen my make-up tutorial on how to fix dark circles, yet?
 
-42
+43
 00:03:33,299 --> 00:03:36,029
 Bestie, you offend me, it's one of the earliest I made!
 
-43
+44
 00:03:36,129 --> 00:03:38,859
 Look, I'll explain that to you in person, just because it's you
 
-44
+45
 00:03:39,339 --> 00:03:43,849
 First of all you'll need a (primer) to
 enhance the (corrector's) effect
 
-45
+46
 00:03:43,749 --> 00:03:47,194
 Bestie, the latter must be coloured in peach, categorically!
 
-46
+47
 00:03:47,594 --> 00:03:49,539
 because, dearie, your complexion asks for it!
 
-47
+48
 00:03:50,039 --> 00:03:53,589
 If one had to use an orange shade
 for the blue of the dark circles
 (Pollo: Pollo to Pingu: you still alive? Shall I come over and pick you up from the Islands of Oceania?)
 
-48
+49
 00:03:53,589 --> 00:03:55,869
 what would obviously happen?
 
-49
+50
 00:03:55,869 --> 00:03:58,319
 You'd resemble Gollum in no time
 (Pingu: Return to homeland achieved, my naughty chick)
 
-50
+51
 00:03:58,319 --> 00:04:00,189
 This is obviously only the beginning
 (Pollo: Damn, I have bought a machete for nothing. Are you at home already?)
 
-51
+52
 00:04:00,189 --> 00:04:03,749
 and then you'll need some foundation
 of the same colour of your skin. Trust me,
 
-52
+53
 00:04:03,749 --> 00:04:07,659
-Bestie, be careful! We both know you fail
+Bestie, be careful! We both know you are wrong
 (Pingu: On my way. If you feel like, meet me at the flat. Have you taken note of the address?)
 
-53
+54
 00:04:07,659 --> 00:04:10,319
 What happens next? You take a lighter one
 (Pollo: Who do you think I am? I am serious! A honest worker, not a wannabe small time journalist.)
 
-54
+55
 00:04:10,319 --> 00:04:13,979
 you bring them out even more, and it's over
 
-55
+56
 00:04:13,979 --> 00:04:18,439
 If even the foundation the colour of you skin weren't of any use
 (Pollo: could you please write it again for me?)
 
-56
+57
 00:04:16,341 --> 00:04:17,841
 regardless of your skin color, you purchase a corrective one
 (Pingu: I knew! Via del Tasso 23, Pollo. This means yes, doesn't it?)
 
-57
+58
 00:04:18,439 --> 00:04:21,049
 but don't use too much
 (Pollo: I'm not the greedy asocial banker you paint me to others)
 
-58
+59
 00:04:20,249 --> 00:04:24,870
 Then you fix everything up with powder. But, Bestie, extremely lightly!
 (Pingu: Alessio is gonna be there too)
 
-59
+60
 00:04:24,870 --> 00:04:28,849
 This is obviously only the beginnning, you'll take care of the rest later
 (Pingu: That moron? C'mon, no, please!)
 
-60
+61
 00:04:28,849 --> 00:04:30,930
 You could take inspiration from my tutorials
 
-61
+62
 00:04:31,030 --> 00:04:34,340
 Yesterday, I filmed my 638th
 (Pingu: He's Gaia's boyfriend, what were you expecting Pollo? If you care for me you'll come anyway.)
 
-62
-00:04:34,340 --> 00:04:36,649
+63
+00:04:34,340 --> 00:04:36,549
 You'll be spoilt for choices
 
-63
+64
 00:04:36,426 --> 00:04:37,926
 Bestie!
 
-64
+65
 00:04:37,949 --> 00:04:39,600
 Bestie, are you listening to me?
 
-65
+66
 00:04:39,700 --> 00:04:40,209
 Ehi! But...
 
-66
+67
 00:04:40,440 --> 00:04:41,840
 Who are you texting with?
 
-67
+68
 00:04:42,009 --> 00:04:42,939
 With Marco!
 
-68
+69
 00:04:42,906 --> 00:04:44,606
 Marco who?
 
-69
+70
 00:04:44,639 --> 00:04:47,000
 Marco my best friend, Debora!
 
-70
+71
 00:04:47,100 --> 00:04:49,150
 You must have seen him, let me see...
 
-71
+72
 00:04:49,150 --> 00:04:52,180
 A billion times?
 
-72
+73
 00:04:53,680 --> 00:04:54,830
 Shall we leave now?
 
-73
+74
 00:04:54,823 --> 00:04:56,323
 Yep, put the belt on
 
-74
+75
 00:04:57,930 --> 00:05:00,080
 I don't remember him anyway
 
-75
+76
 00:04:59,915 --> 00:05:02,115
 Hm, weird
 
-76
-00:05:12,913 --> 00:05:17,213
-(#CONNECTED)
-
 77
-00:05:21,209 --> 00:05:24,423
-(You won't ever believe how they replied to him!!! #conspiracy #vaccines #bastards)
+00:05:12,913 --> 00:05:17,213
+<i>(#CONNECTED)</i>
 
 78
-00:05:25,759 --> 00:05:26,187
-Don't you realise?
+00:05:21,209 --> 00:05:24,423
+<i>(You won't ever believe how they replied to him!!! #conspiracy #vaccines #bastards)</i>
 
 79
+00:05:25,759 --> 00:05:26,187
+It's unbelievable!
+
+80
 00:05:26,710 --> 00:05:27,860
 What?
 
-80
+81
 00:05:27,860 --> 00:05:29,939
 Do you know about that young activist
 
-81
+82
 00:05:29,939 --> 00:05:31,719
 the one who is exposing them all
 
-82
+83
 00:05:31,719 --> 00:05:33,279
 Ah, is he the one about the chips under the skin?
 
-83
+84
 00:05:33,631 --> 00:05:35,631
 Subcutaneous, honey, they're called "subcutaneous"
 
-84
+85
 00:05:35,879 --> 00:05:37,849
 Oh, alright.
 However: yes, he is
 
-85
+86
 00:05:37,849 --> 00:05:40,240
 What has he said this time?
 
-86
+87
 00:05:40,240 --> 00:05:42,520
 Nothing we didn't know about
 
-87
+88
 00:05:42,520 --> 00:05:44,170
 I know what, you know what
 
-88
+89
 00:05:44,170 --> 00:05:47,559
 and the informed ones know,
 what vaccines do for real
 
-89
+90
 00:05:47,559 --> 00:05:50,529
 It's not that my cousin is autistic for no reason!
 
-90
+91
 00:05:50,529 --> 00:05:52,430
 It's the answers!
 
-91
+92
 00:05:52,430 --> 00:05:55,890
 You should know how they replied to him!
 This really is the time I get proper cross!
 
-92
+93
 00:05:55,902 --> 00:05:57,402
 Calm down, honey!
 
-93
+94
 00:05:56,990 --> 00:06:01,005
 Hey! Don't calm down me!
 Those words make my ears bleed!
 I'll spare you from those
 
-94
+95
 00:06:02,539 --> 00:06:04,238
 And then I have to pay "some people"'s taxes!
 
-95
+96
 00:06:04,449 --> 00:06:07,809
 You mean you pay
 their wages with your taxes
 
-96
+97
 00:06:07,837 --> 00:06:09,658
 No, Gaia
 this is really disappointing, coming from you
 
-97
+98
 00:06:10,009 --> 00:06:12,404
 It is exactly because I pay their wages, that I pay their taxes too!
 
-98
+99
 00:06:12,571 --> 00:06:14,627
 If only they paid their taxes, bloody crooks
 
-99
+100
 00:06:14,810 --> 00:06:16,819
 always taking on honest people
 
-100
+101
 00:06:16,819 --> 00:06:19,869
 they want us as ignorant as goats, goats, goats
 
-101
+102
 00:06:19,869 --> 00:06:21,059
 no offence intended, honey
 
-102
+103
 00:06:21,059 --> 00:06:22,169
 No, alright
 
-103
+104
 00:06:22,169 --> 00:06:23,330
 let's move on
 
-104
+105
 00:06:23,330 --> 00:06:25,569
 How did they reply to him, then
 
-105
+106
 00:06:25,569 --> 00:06:26,794
 It's obvious that you are dying to tell me
 
-106
+107
 00:06:27,137 --> 00:06:28,150
 They told him
 
-107
+108
 00:06:28,189 --> 00:06:30,039
 that he is an ignorant idiot
 
-108
+109
 00:06:30,039 --> 00:06:32,889
 A brainless conspirationist
 
-109
+110
 00:06:32,889 --> 00:06:35,649
 How dare some people look at the mirror in the morning?
 
-110
+111
 00:06:36,819 --> 00:06:39,919
 Bunch of lobbyist-mason-bastards!
 
-111
+112
 00:06:39,919 --> 00:06:43,020
 If only people got themselves informed just a little bit more...
 
-112
+113
 00:06:43,020 --> 00:06:44,580
 Alas, no! And what do they do?
 
-113
+114
 00:06:44,580 --> 00:06:47,680
 They vote for them, in the assumption of making their own interest
 
-114
+115
 00:06:47,680 --> 00:06:50,389
 while, instead, they sling shit at society
 
-115
+116
 00:06:50,389 --> 00:06:51,617
 the nation, the whole world
 
-116
+117
 00:06:51,997 --> 00:06:52,721
 SHEEP!
 
-117
+118
 00:06:53,199 --> 00:06:54,379
 Alessio!
 
-118
+119
 00:06:54,379 --> 00:06:56,899
 Could you please quit putting innocent animals in harm's way?
 
-119
+120
 00:06:56,699 --> 00:06:58,712
 Ok, honey, but they really do wave the red flag at a bull
 
-120
+121
 00:06:58,990 --> 00:07:01,199
 They're all stereotypes!
 
-121
+122
 00:07:01,199 --> 00:07:01,676
 Meaning?
 
-122
+123
 00:07:01,809 --> 00:07:04,330
 Bulls are meek animals
 
-123
+124
 00:07:04,330 --> 00:07:06,347
 It's mankind's fault for soiling their language
 
-124
+125
 00:07:06,600 --> 00:07:08,646
 with mean and meaningless words
 
-125
+126
 00:07:08,927 --> 00:07:10,650
 Honey, you know that I didn't intend to cause any harm!
 
-126
+127
 00:07:10,730 --> 00:07:12,230
 Well, you still said it!
 
-127
+128
 00:07:14,460 --> 00:07:15,729
 Have a look!
 
-128
+129
 00:07:15,729 --> 00:07:18,884
 Look, honey, look at
 what men are capable of
 
-129
+130
 00:07:19,483 --> 00:07:20,279
 Cioè, do you know
 
-130
+131
 00:07:20,729 --> 00:07:22,369
 how many scale insect does it take
 
-131
+132
 00:07:22,469 --> 00:07:25,250
 to make two pounds of cochineal red dye?
 
-132
+133
 00:07:25,250 --> 00:07:27,149
 Is it the first sentence of a joke?
 
-133
+134
 00:07:27,149 --> 00:07:27,960
 One hundred thousands
 
-134
+135
 00:07:27,960 --> 00:07:29,655
 dead bugs, Alessio!
 
-135
+136
 00:07:29,832 --> 00:07:31,482
 Does it sound like a joke to you?
 
-136
+137
 00:07:31,582 --> 00:07:33,232
 Is it so much fun, eh?
 
-137
+138
 00:07:33,279 --> 00:07:36,088
 Now you know what you scoff together with your strawberry yoghurt?
 
-138
+139
 00:07:36,404 --> 00:07:37,904
 Still with the yoghurt argument?
 
-139
+140
 00:07:38,089 --> 00:07:40,176
 It's not like I forced the cow to give me her milk!
 
-140
+141
 00:07:40,669 --> 00:07:42,018
 It was a yoghurt, what were you thinking?
 
-141
+142
 00:07:42,363 --> 00:07:44,263
 Alright, let's drop it here, then!
 
-142
+143
 00:07:46,465 --> 00:07:50,165
 (Ilaria: 15 minutes and we're home matey. I've got a bunch to tell! Marco's on his way, try not to shock him)
 
-143
+144
 00:07:49,929 --> 00:07:51,417
 Ilaria is here
 
-144
+145
 00:07:51,363 --> 00:07:52,363
 Ah
 
-145
+146
 00:07:52,819 --> 00:07:56,659
 If Debora, stupid as she is, doesn't crash, they'll be here shortly
 
-146
+147
 00:07:56,659 --> 00:07:59,343
 I told her I would pick her up on my bike
 
-147
+148
 00:08:00,009 --> 00:08:02,309
 (Alessio: Chick incoming, buddy, better hurry)
 
-148
+149
 00:08:03,309 --> 00:08:05,609
 (Rocco: Cooooool :D :D :D on me way)
 However, Rocco is coming too
 
-149
+150
 00:08:05,860 --> 00:08:06,938
 Hope it's not an issue
 
-150
+151
 00:08:07,416 --> 00:08:09,874
 Your pig housemate?
 Why should it?
 
-151
+152
 00:08:09,642 --> 00:08:12,242
 Now, don't mix pigs with human stereotypes
 
-152
+153
 00:08:13,399 --> 00:08:15,370
 Ah, however, Marco is coming too
 
-153
+154
 00:08:15,370 --> 00:08:17,080
 this way we compensate
 
-154
+155
 00:08:16,906 --> 00:08:18,406
 Ah, Marco!
 
-155
+156
 00:08:18,319 --> 00:08:20,782
 Mr Pole-Up-His-Arse honours us with his presence
 
-156
+157
 00:08:21,220 --> 00:08:22,884
 You are an asshole!
 
-157
+158
 00:08:32,790 --> 00:08:34,930
 Nice sandals! German?
 
-158
+159
 00:08:34,930 --> 00:08:37,176
 Franziskaner?
 
-159
+160
 00:08:40,200 --> 00:08:43,367
 Christal orb, tell me the future!
 
-160
+161
 00:08:49,261 --> 00:08:50,911
 Oh, oh, excuse me!
 
-161
+162
 00:08:51,411 --> 00:08:54,161
 Did you know you look like Jessica Rabbit
 
-162
+163
 00:08:53,967 --> 00:08:55,467
 in half?
 
-163
+164
 00:09:06,068 --> 00:09:07,668
 (I'm downstairs, can you open the gate?)
 
-164
+165
 00:09:09,358 --> 00:09:10,858
 (Right away)
 
-165
+166
 00:09:12,372 --> 00:09:13,372
 Yes?
 
-166
+167
 00:09:13,115 --> 00:09:14,215
 Ale?
 
-167
+168
 00:09:14,410 --> 00:09:16,636
 Open, it's me
 
-168
+169
 00:09:41,086 --> 00:09:43,686
 (I'm at your place. Don't say I don't care for our friendship)
 
-169
+170
 00:09:44,406 --> 00:09:46,906
 (Is alessio talking about reptilians?)
 
-170
+171
 00:09:47,019 --> 00:09:51,219
 (No, but I am about to share the lift with a maniac.
 Remember I care for you)
 
-171
+172
 00:10:04,592 --> 00:10:06,092
 What floor?
 
-172
+173
 00:10:06,317 --> 00:10:08,017
 You?
 
-173
+174
 00:10:08,532 --> 00:10:10,232
 Seventh
 
-174
+175
 00:10:09,860 --> 00:10:10,960
 Me too
 
-175
+176
 00:10:10,960 --> 00:10:12,657
 Coincidence
 
-176
+177
 00:10:22,160 --> 00:10:25,091
 Slow, uh?
 
-177
+178
 00:10:29,990 --> 00:10:32,840
 The sun came out, at last
 
-178
+179
 00:10:32,840 --> 00:10:36,790
 Couldn't take any more bad weather
 
-179
+180
 00:10:36,790 --> 00:10:39,200
 But you...
 
-180
+181
 00:10:39,200 --> 00:10:40,260
 Yeees?
 
-181
+182
 00:10:40,260 --> 00:10:45,050
 What team do you root for?
 
-182
+183
 00:10:45,050 --> 00:10:47,193
 I'm not a great fan. See you later.
 
-183
+184
 00:10:49,970 --> 00:10:52,770
 Come on, I can't believe you root for no team
 
-184
+185
 00:10:53,460 --> 00:10:55,753
 It's been a pleasure. I have arrived.
 
-185
+186
 00:10:55,669 --> 00:10:58,169
 So have I! See, what a coincidence?
 
-186
+187
 00:10:59,071 --> 00:10:59,908
 Marco!
 
-187
+188
 00:11:00,370 --> 00:11:00,998
 Rocco...
 
-188
+189
 00:11:01,640 --> 00:11:02,952
 Have you two been introduced yet?
 
-189
+190
 00:11:02,880 --> 00:11:06,230
 Eh, nice to meet you, I am Rocco, Alessio's housemate
 
-190
+191
 00:11:06,230 --> 00:11:07,271
 Marco
 
-191
+192
 00:11:07,630 --> 00:11:11,860
 He's Ilaria's best friend, the girl who's coming back tonight
 
-192
+193
 00:11:11,860 --> 00:11:13,460
 Please, come in
 
-193
+194
 00:11:13,460 --> 00:11:15,687
 So, with Ilaria, fuck buddies?
 
-194
+195
 00:11:15,570 --> 00:11:17,162
 Friendzone?
 
-195
+196
 00:11:18,143 --> 00:11:19,643
 Friendzone!
 
-196
+197
 00:11:31,531 --> 00:11:33,331
 Debora, you parked on zebras
 
-197
+198
 00:11:33,560 --> 00:11:34,962
 I have no time to waste, dearie. Let's go!
 
-198
+199
 00:11:34,488 --> 00:11:37,088
 Look, they're gonna scratch this one too
 
-199
+200
 00:11:36,970 --> 00:11:37,989
 Those vandals!
 
-200
+201
 00:11:37,675 --> 00:11:40,775
 Debora, the suitcase! Debora! Gotta get the suitcase!
 
-201
+202
 00:11:48,306 --> 00:11:49,506
 Ma...
 
-202
+203
 00:11:51,150 --> 00:11:54,130
 Is he the one with the pole up his arse?
 
-203
+204
 00:11:54,130 --> 00:11:55,323
 Really!
 
-204
+205
 00:11:56,330 --> 00:11:56,733
 Alright
 
-205
+206
 00:11:57,090 --> 00:12:00,054
 But he looks a cool guy, doesn't he?
 
-206
+207
 00:12:00,410 --> 00:12:02,780
 But, hey, do we know what team he roots for?
 
-207
+208
 00:12:02,780 --> 00:12:05,820
 Nah, he doesn't follow football
 
-208
+209
 00:12:05,820 --> 00:12:08,330
 Don't bullshit me!
 
-209
+210
 00:12:08,330 --> 00:12:09,860
 Is he gay?
 
-210
+211
 00:12:09,860 --> 00:12:10,700
 No
 
-211
+212
 00:12:10,700 --> 00:12:14,380
 He's Ilaria's puppy, but she...
 
-212
+213
 00:12:14,380 --> 00:12:15,830
 Listen, buddy, but...
 
-213
+214
 00:12:15,830 --> 00:12:19,230
 who is the cute one, Ilaria or Debora?
 
-214
+215
 00:12:19,230 --> 00:12:22,199
 Both are! That's why I called you. Don't you trust me?
 
-215
+216
 00:12:22,601 --> 00:12:23,401
 Come on!
 
-216
+217
 00:12:23,501 --> 00:12:25,451
 Brother, the heart wants what the heart wants!
 
-217
+218
 00:12:25,651 --> 00:12:27,601
 Eh, and so does the bald eagle!
 
-218
+219
 00:12:36,470 --> 00:12:38,000
 So then...
 
-219
+220
 00:12:38,000 --> 00:12:40,900
 I hope they'll consider me, Debora.
 
-220
+221
 00:12:40,900 --> 00:12:45,250
 After all, achieving the qualification has been expensive and horribly tiring
 
-221
+222
 00:12:45,250 --> 00:12:49,150
 then, after such an intensive course!
 
-222
+223
 00:12:48,750 --> 00:12:53,780
 but, nowadays, keeping one's CV up to date is paramount, you know!
 
-223
+224
 00:12:53,780 --> 00:12:57,970
 especially for someone, like me, who hasn't yet built a strong network
 
-224
+225
 00:12:57,970 --> 00:13:01,292
 so she's forced to accept any position
 
-225
+226
 00:13:01,422 --> 00:13:06,222
 (deb_mele Chat in lift #home #besties #chitchat #smile #elevator #boring #concrete)
 
-226
+227
 00:13:07,952 --> 00:13:08,952
 Honey
 
-227
+228
 00:13:09,500 --> 00:13:12,597
 You must see this photo of a "Daubentonia madagascariensis"
 
-228
+229
 00:13:12,994 --> 00:13:13,994
 Too cute!
 
-229
+230
 00:13:15,900 --> 00:13:18,360
 Are you boys socializing?
 
-230
+231
 00:13:18,360 --> 00:13:20,881
 Sure, honey!
 
-231
+232
 00:13:27,740 --> 00:13:29,170
 So, Marco
 
-232
+233
 00:13:29,170 --> 00:13:32,050
 how is work doing?
 
-233
+234
 00:13:32,050 --> 00:13:35,300
 how many poor souls have you bloodsucked today
 you there at Goldman Sachs?
 
-234
+235
 00:13:35,300 --> 00:13:37,450
 I'm off work today, so...
 
-235
+236
 00:13:37,450 --> 00:13:38,240
 None
 
-236
+237
 00:13:38,039 --> 00:13:40,039
 Oh, did you watch the derby?
 
-237
+238
 00:13:41,640 --> 00:13:43,470
 Would you remind me how much you earn?
 
-238
+239
 00:13:43,470 --> 00:13:45,050
 I've never told you!
 
-239
+240
 00:13:45,050 --> 00:13:46,580
 Have you got anything to hide?
 
-240
+241
 00:13:46,580 --> 00:13:47,750
 Let me guess...
 
-241
+242
 00:13:47,750 --> 00:13:50,695
 You got your job thanks to your dad, a banker like you
 
-242
+243
 00:13:51,036 --> 00:13:52,036
 No
 
-243
+244
 00:13:52,230 --> 00:13:56,130
 I'm afraid it's my economy and finance
 master degree's fault
 
-244
+245
 00:13:56,130 --> 00:13:57,400
 Gotta pee
 
-245
+246
 00:13:57,400 --> 00:13:59,650
 Your family must be very wealthy!
 
-246
+247
 00:13:59,650 --> 00:14:00,780
 Yes
 
-247
+248
 00:14:00,780 --> 00:14:02,600
 My dad is a bricklayer!
 
-248
+249
 00:14:02,600 --> 00:14:03,640
 I knew it!
 
-249
+250
 00:14:03,640 --> 00:14:04,153
 A freemason!
 
-250
+251
 00:14:04,841 --> 00:14:05,741
 Matey!
 
-251
+252
 00:14:05,740 --> 00:14:07,130
 Hi matey!
 
-252
+253
 00:14:09,470 --> 00:14:10,832
 They're all here already
 
-253
+254
 00:14:11,108 --> 00:14:12,408
 Rocco's here too
 
-254
+255
 00:14:12,990 --> 00:14:14,735
 you were bound to meet him at some point anyway
 
-255
+256
 00:14:14,988 --> 00:14:18,188
 After all the horrible things about him you told me about, I can't wait!
 
-256
+257
 00:14:19,260 --> 00:14:20,320
 Pollo!
 
-257
+258
 00:14:21,404 --> 00:14:22,304
 Naughty chick of mine!
 
-258
+259
 00:14:22,730 --> 00:14:24,950
 Hi, future slave of the government!
 
-259
+260
 00:14:25,150 --> 00:14:27,048
 Hi, dumbass!
 
-260
+261
 00:14:27,980 --> 00:14:29,715
 One minute later and I'd have strangled him!
 
-261
+262
 00:14:29,838 --> 00:14:31,538
 I'm sorry
 
-262
+263
 00:14:47,140 --> 00:14:48,897
 Hello, I am Rocco, baby!
 
-263
+264
 00:14:50,478 --> 00:14:51,578
 Ilaria
 
-264
+265
 00:14:51,740 --> 00:14:54,420
 I have heard about you, a lot
 
-265
+266
 00:14:54,420 --> 00:14:57,389
 Has anybody told you why I have got this name?
 
-266
+267
 00:14:57,550 --> 00:14:58,636
 I can imagine
 
-267
+268
 00:14:58,839 --> 00:15:00,739
 your mom liked the name. Let's get out.
 
-268
+269
 00:15:18,991 --> 00:15:19,891
 Ciao
 
-269
+270
 00:15:20,060 --> 00:15:21,467
 I am Rocco, baby!
 
-270
+271
 00:15:21,880 --> 00:15:24,544
 Would you like to know why my mother gave me this name?
 
-271
+272
 00:15:27,140 --> 00:15:30,789
 Have I already told you how nice you and my dad have been for bringing my stuff over here?
 
-272
+273
 00:15:30,990 --> 00:15:32,740
 I was ready to sleep on the sofa, you know
 
-273
+274
 00:15:33,040 --> 00:15:34,742
 20 times today alone
 
-274
+275
 00:15:34,519 --> 00:15:36,019
 Don't exaggerate!
 
-275
+276
 00:15:36,310 --> 00:15:37,830
 But this won't pay back for all my effort
 
-276
+277
 00:15:38,030 --> 00:15:40,149
 You're a naive chick, really
 
-277
+278
 00:15:40,149 --> 00:15:42,329
 you even pretended you had forgotten the address
 
-278
+279
 00:15:42,827 --> 00:15:42,994
 Did I?
 
-279
+280
 00:15:43,331 --> 00:15:48,049
 Yep. I must let you know
 that I believe I'll never trust your words again?
 
-280
+281
 00:15:48,049 --> 00:15:48,422
 Ah, right?
 
-281
+282
 00:15:48,625 --> 00:15:48,972
 Right!
 
-282
+283
 00:15:49,480 --> 00:15:52,098
 And here you are, the ineffable Pingu
 
-283
+284
 00:15:52,310 --> 00:15:56,137
 The only one able to transform a gesture of pure altruism into a fault
 
-284
+285
 00:15:56,680 --> 00:16:00,440
 I'm taking the piss, naughty chick, come on...
 
-285
+286
 00:16:00,440 --> 00:16:02,717
 It's me taking the piss on you
 
-286
+287
 00:16:06,510 --> 00:16:07,187
 OK
 
-287
+288
 00:16:07,960 --> 00:16:15,650
 Fetch the pillow, come on!
 
-288
+289
 00:16:16,350 --> 00:16:19,313
 Nooo! Oh, great, great bro!
 
-289
+290
 00:16:24,816 --> 00:16:25,916
 Go Inter
 
-290
+291
 00:16:26,500 --> 00:16:30,150
 No! No! No! Foul! Come on!
 
-291
+292
 00:16:30,150 --> 00:16:32,569
 Pass it on! Pass the ball forward to him!
 
-292
+293
 00:16:32,569 --> 00:16:37,850
 He's alone! No! Taken! I cannot bear the sight of them when they behave this way
 
-293
+294
 00:16:37,850 --> 00:16:39,562
 Do you know how much money spins around football?
 
-294
+295
 00:16:39,800 --> 00:16:42,200
 Oh Ale, don't fray my balls with this stuff!
 
-295
+296
 00:16:42,560 --> 00:16:43,420
 I'm pretty sure
 
-296
+297
 00:16:43,420 --> 00:16:44,945
 matches are all fixed
 
-297
+298
 00:16:45,390 --> 00:16:47,040
 Have a look at the referee's watch
 
-298
+299
 00:16:47,040 --> 00:16:48,423
 they have no shame
 
-299
+300
 00:16:48,970 --> 00:16:50,410
 It's true!
 
-300
+301
 00:16:50,410 --> 00:16:52,096
 Oh, holy words, brother!
 
-301
+302
 00:16:52,390 --> 00:16:54,299
 Jesus Christ couldn't have said it better
 
-302
+303
 00:16:54,568 --> 00:16:55,668
 Respect
 
-303
+304
 00:16:57,270 --> 00:16:59,230
 Nooo! No! Again?
 
-304
+305
 00:16:59,230 --> 00:17:01,899
 Noo no look, look, if you miss this... Don't miss...
 
-305
+306
 00:17:02,114 --> 00:17:03,314
 Shoot! Shoot! Shoot!
 
-306
+307
 00:17:03,600 --> 00:17:04,756
 Nooooo!
 
-307
+308
 00:17:14,050 --> 00:17:14,422
 Do you mind?
 
-308
+309
 00:17:14,900 --> 00:17:15,619
 What?
 
-309
+310
 00:17:15,474 --> 00:17:17,174
 I have to send a voicemail to my sistas
 
-310
+311
 00:17:17,450 --> 00:17:19,002
 and you are typing, like...
 
-311
+312
 00:17:19,810 --> 00:17:20,693
 You know how!
 
-312
+313
 00:17:21,870 --> 00:17:22,843
 Love of my life, ciao!
 
-313
+314
 00:17:23,386 --> 00:17:25,686
 Jump immediately to watch the picture I've tagged you on
 
-314
+315
 00:17:25,720 --> 00:17:27,542
 and you'll be at peace with yourselves
 
-315
+316
 00:17:27,890 --> 00:17:28,792
 What I say is
 
-316
+317
 00:17:29,050 --> 00:17:34,140
 did she do her own eyebrows
 or did she hire a monkey to do her job?
 
-317
+318
 00:17:34,140 --> 00:17:38,727
 Go watch the one I'm about to post too! Catch you later, sisters, kiss
 
-318
+319
 00:17:43,875 --> 00:17:48,575
 (deb_mele Vegans, a self solving problem #vegan #starvation #bitch #fun #lovemeat  #protein #iguanodon)
 
-319
+320
 00:17:53,960 --> 00:17:55,516
 You know I'm following your profile, don't you?
 
-320
+321
 00:17:55,647 --> 00:17:57,147
 Giv 'a' fuck
 
-321
+322
 00:17:58,120 --> 00:17:59,440
 Dunno, Marco
 
-322
+323
 00:17:59,440 --> 00:18:02,160
 I sincerely hope they'll get back to me soon
 
-323
+324
 00:18:02,160 --> 00:18:04,085
 I don't want to sit on my hands
 
-324
+325
 00:18:04,676 --> 00:18:05,241
 It's true
 
-325
+326
 00:18:05,280 --> 00:18:06,850
 I'm very tired
 
-326
+327
 00:18:06,850 --> 00:18:08,520
 But also very excited
 
-327
+328
 00:18:08,520 --> 00:18:11,730
 I can put myself on the line now! Make
 a difference
 
-328
+329
 00:18:11,730 --> 00:18:13,116
 you do understand what I am trying to say, don't you?
 
-329
+330
 00:18:13,303 --> 00:18:14,803
 Yes, I do
 
-330
+331
 00:18:15,140 --> 00:18:15,970
 And perhaps
 
-331
+332
 00:18:15,970 --> 00:18:18,560
 perhaps you would like to be paid for it too
 
-332
+333
 00:18:18,560 --> 00:18:20,980
 Says the typical materialist guy
 
-333
+334
 00:18:20,980 --> 00:18:23,713
 This is a matter of passion
 
-334
+335
 00:18:23,975 --> 00:18:25,800
 But passion doesn't pay the bills
 
-335
+336
 00:18:26,600 --> 00:18:29,000
 Do you want to leave it in the fashion blogger's hands?
 
-336
+337
 00:18:29,340 --> 00:18:30,510
 o in the dog-sitter's?
 
-337
+338
 00:18:30,375 --> 00:18:33,236
 Look, Gaia doesn't deal just with dogs
 
-338
+339
 00:18:33,370 --> 00:18:34,970
 Oh well
 
-339
+340
 00:18:34,970 --> 00:18:37,394
 in the pet-sitter's, then
 
-340
+341
 00:18:40,450 --> 00:18:44,090
 Do you realise you're the only one here
 with a good head on your shoulders?
 
-341
+342
 00:18:45,551 --> 00:18:48,400
 Beh... Give or take
 
-342
+343
 00:18:48,610 --> 00:18:51,221
 You are really determined to rain on my parade, aren't you?
 
-343
+344
 00:18:51,112 --> 00:18:54,154
 No, no, Pingu... I didn't mean it, you know that.
 
-344
+345
 00:18:54,390 --> 00:18:56,550
 I know, Chick, I know.
 
-345
+346
 00:18:56,550 --> 00:19:00,050
 I am not planning to get rich with a web serie
 
-346
+347
 00:19:00,050 --> 00:19:03,250
 I just want to be a journalist
 that which I've studied for, ok?
 
-347
+348
 00:19:03,250 --> 00:19:05,860
 I know that I have to learn plenty of ropes
 
-348
+349
 00:19:05,860 --> 00:19:10,560
 ?????
 
-349
+350
 00:19:10,560 --> 00:19:14,976
 Do you find it so absurd that I cherish the hope to get to count for something?
 
-350
+351
 00:19:15,074 --> 00:19:16,574
 No
 
-351
+352
 00:19:18,100 --> 00:19:20,180
 Because you're a typical careerist
 
-352
+353
 00:19:20,180 --> 00:19:28,990
 Says the banker son of a bricklayer
 
-353
+354
 00:19:27,042 --> 00:19:28,642
 Oh my god!
 
-354
+355
 00:19:28,990 --> 00:19:30,440
 Oh my god, it's them!
 
-355
+356
 00:19:32,009 --> 00:19:32,909
 Is that... About the job?
 
-356
+357
 00:19:32,930 --> 00:19:35,540
 Yes, I didn't think they would call me today
 
-357
+358
 00:19:35,540 --> 00:19:36,427
 What are you waiting for? Answer it!
 
-358
+359
 00:19:36,970 --> 00:19:38,734
 Do you mind?
 
-359
+360
 00:19:37,842 --> 00:19:39,642
 Ah, sorry!
 
-360
+361
 00:19:42,611 --> 00:19:44,111
 Hello?
 
-361
+362
 00:19:44,711 --> 00:19:46,211
 Yes, it's me
 
-362
+363
 00:19:46,510 --> 00:19:48,020
 Ilaria Visconti
 
-363
+364
 00:19:48,920 --> 00:19:50,420
 Everything alright?
 
-364
+365
 00:19:50,420 --> 00:19:51,770
 Is Ilaria ok, that is?
 
-365
+366
 00:19:51,770 --> 00:19:52,638
 Yes, yes, everything alright
 
-366
+367
 00:19:53,821 --> 00:19:57,543
 Did she mention the job interview she had with that newspaper last week?
 
-367
+368
 00:19:59,525 --> 00:20:00,425
 They have just called her
 
-368
+369
 00:20:00,290 --> 00:20:01,440
 Job?
 
-369
+370
 00:20:01,540 --> 00:20:02,690
 Newspaper?
 
-370
+371
 00:20:02,675 --> 00:20:03,875
 Has anybody said
 
-371
+372
 00:20:04,090 --> 00:20:05,110
 PARTY?
 
-372
+373
 00:20:05,320 --> 00:20:09,915
 (Mangled: come on, shake your body baby, do the conga
 I know you can't control yourself any longer)
 
-373
+374
 00:20:20,350 --> 00:20:23,020
 I understand
 
-374
+375
 00:20:23,020 --> 00:20:25,080
 They have called her so quickly
 
-375
+376
 00:20:25,080 --> 00:20:28,610
 Does our dear Ilaria know someone from the Bilderberg group?
 
-376
+377
 00:20:28,610 --> 00:20:30,080
 Nip it in the bud, shall we?
 
-377
+378
 00:20:30,080 --> 00:20:32,800
 You nip it, so you can eat the bud!
 
-378
+379
 00:20:40,010 --> 00:20:41,370
 Did you get it?
 
-379
+380
 00:20:42,470 --> 00:20:45,164
 He told her "eat the bud" because she's a vegan
 
-380
+381
 00:20:47,770 --> 00:20:49,260
 You, piece of shit!
 
-381
+382
 00:20:49,260 --> 00:20:58,080
 It's fertiliser, honey. I do it for you!
 
-382
+383
 00:20:58,080 --> 00:21:00,870
 Marco told me they called you for the job
 
-383
+384
 00:21:00,870 --> 00:21:02,124
 How did it go?
 
-384
+385
 00:21:03,980 --> 00:21:04,860
 I got the job
 
-385
+386
 00:21:04,760 --> 00:21:06,790
 Let's celebrate right away!
 
-386
+387
 00:21:06,940 --> 00:21:09,245
 No no no no no no, guys! No, no, no
 
-387
+388
 00:21:09,301 --> 00:21:10,901
 They have asked me to write an article immediately
 
-388
+389
 00:21:11,006 --> 00:21:12,506
 and I'm very tired
 
-389
+390
 00:21:12,699 --> 00:21:13,589
 I can't
 
-390
+391
 00:21:13,901 --> 00:21:15,801
 I promise you we'll do it another day
 
-391
+392
 00:21:15,830 --> 00:21:16,717
 we'll celebrate properly
 
-392
+393
 00:21:16,988 --> 00:21:18,622
 Though, if you could stay...
 
-393
+394
 00:21:19,388 --> 00:21:20,888
 no problem with that
 
-394
+395
 00:21:20,765 --> 00:21:22,265
 No, no
 
-395
+396
 00:21:22,220 --> 00:21:24,400
 I'm working tomorrow, I'd better go
 
-396
+397
 00:21:24,400 --> 00:21:27,060
 Sucking blood in arrears, right?
 
-397
+398
 00:21:27,060 --> 00:21:28,254
 Bye guys
 
-398
+399
 00:21:28,477 --> 00:21:30,177
 Bye
 
-399
+400
 00:21:34,710 --> 00:21:37,207
 I think I am going
 
-400
+401
 00:21:38,345 --> 00:21:41,000
 to stay here a little bit longer
 
-401
+402
 00:21:41,284 --> 00:21:42,984
 Cool
 
-402
+403
 00:21:44,280 --> 00:21:47,210
 What are you playing? Angry birds?
 
-403
+404
 00:22:09,858 --> 00:22:17,858
 Three more deaths caused by the heat:  Killer Giasone
 
-404
+405
 00:22:17,913 --> 00:22:23,913
 What are meteorologists hiding?
 
